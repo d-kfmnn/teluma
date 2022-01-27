@@ -10,7 +10,7 @@ For further information we refer to the paper
 
 Daniela Kaufmann, Paul Beame, Armin Biere, Jakob Nordström. 
  [`Adding Dual Variables to Algebraic Reasoning
-for Gate-Level Multiplier Verification.`](https://danielakaufmann.at/kaufmannbeamebierenordstroem-date22/)
+for Gate-Level Multiplier Verification.`](https://danielakaufmann.at/kaufmannbeamebierenordstrom-date22/)
 In Proc. Design, Automation and Test in Europe (DATE), 6 pages, 2022.
 
 and the corresponding website http://fmv.jku.at/teluma  
