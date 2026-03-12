@@ -9,8 +9,8 @@
 #ifndef AMULET2_SRC_HASH_VAL_H_
 #define AMULET2_SRC_HASH_VAL_H_
 /*------------------------------------------------------------------------*/
-#include <assert.h>
-
+#include <cassert>
+#include <cstdint>
 #include <string>
 /*------------------------------------------------------------------------*/
 

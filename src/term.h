@@ -10,6 +10,7 @@
 #ifndef AMULET2_SRC_TERM_H_
 #define AMULET2_SRC_TERM_H_
 /*------------------------------------------------------------------------*/
+#include <cstdint>
 #include <stack>
 #include <vector>
 
